@@ -62,7 +62,7 @@ export default function DurangoPage() {
           <div className="relative">
             <div className="relative aspect-[4/3] w-full overflow-hidden rounded-3xl shadow-2xl">
               <Image
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBQZigRvzy4Gj_Qt16-u193ey-og0h50RvK7nHVCmg4bexDraSWfi0qRiITjJALv3GtPXilN4qQUn24aWJnnnKLt1VvTsl3h7iTb-MYT1LA4QSi2rbXHHxLfcn6UBXuBJysta0QDN9MiZsBE0-o83xh4KK1j9B6mrNXgp2EkmsfuMSPxMKwEmngI2-fgc1p2GFA90IkYM1ao5d7Xdg3TWHP5F5zZLsnJwqqXVTj0dQTXzYnIcEhTWu0gmgcPMBIL9eDdH09LhZtqG0"
+                src="/images/hero-home.webp"
                 alt="Modern architectural mountain home in Durango Colorado surrounded by ponderosa pines with sunset glowing on the wood siding and large windows"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -214,7 +214,7 @@ export default function DurangoPage() {
               </div>
               <div className="relative h-48 w-full overflow-hidden rounded-2xl md:w-64">
                 <Image
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrewtbo33xY0Hd1TWaD8c97-3JAcXJ2crH6QT6DhE4mPp7IOb86r03N5AFZAeGsxoak84GUucURQHnF4UO9zUhmiK5nGISTKM4J_fwVmU7KrFN1DxmNebWTAvx-4LKmF5DfgpZD0D8TyO8tvfRmuPjiMARCP6BzWevhQpYCebRPK0uAFynEs4w6knBPpuRmxFltztw7tQqMt7YIXrbEmFedRm8Q8PdXa5Y9E-hQQjfpsdW7RAjYFxJHo9SYyF_c5ngY4u5MvPpeAU"
+                  src="/images/metal-building-finished.webp"
                   alt="Professional installation of rigid board insulation on a commercial building frame under clear blue sky"
                   fill
                   sizes="(max-width: 768px) 100vw, 256px"

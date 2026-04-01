@@ -17,7 +17,7 @@ const articles = [
     description:
       "Unusually high energy bills or drafty rooms? These red flags might mean your home is losing heat faster than you think.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDeV5A8UZdFmLFQgt-rMGjlVSDTpYTbdX_ghFwYdFiLox6VNWaI_MIvde2hrnJVS-WyeRnjCUXSp6MnR6OKm-Yp7tpJiOAQJmZgOL9-DMndyDL9KVVoKh9yZXeHaolva9AZh8hYE0bMqsbTnsbzerc0IuLkpt3Oc7QRqywo4jaDZUlUZl2xQMR15NvY5oaRkc4DZzQ046zmmiQ5BPUYyp4dhNTdizOimlALzna_oCThhOjx187M7oHoPdkN-V4inx9AqGWgpKFcumU",
+      "/images/roof-insulation.webp",
   },
   {
     title: "The ROI of Spray Foam: A 10-Year Analysis",
@@ -26,7 +26,7 @@ const articles = [
     description:
       "Discover how professional spray foam insulation pays for itself through drastic reductions in heating and cooling costs.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAUxudsueBy8A5CmGyWoHJRc8LkMIF3Mw8Y8YXhHi1JEpslRyVHpDKUzTRYZ2Ap7L4pR5q0HyjyBNRbtfa4t-0HZdN5bQoGXT_aWqXq6anATGTD-Wyc3LUojY6KmkV9SMDJpEPA-Iw9bEJy0he7Xb5odP8_P0PyXvk032kYkFIZIr4OTwkYs-o5p15a3eNvPV1V-IIBhkBBePQWwJYHbP4oFqOuwvXVCqX7nsf_bWSi1RyWXTAbjD1oQ7b0b1r_JzXC6yl2baahBn8",
+      "/images/quality-closeup.webp",
   },
   {
     title: "Attic Air Sealing: The Step Most Homeowners Skip",
@@ -35,7 +35,7 @@ const articles = [
     description:
       "Insulation is only half the battle. Learn why air sealing is critical for maximizing your home&apos;s thermal envelope.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuCHbtw4bvKM_G5AxgcXPQwh1XhzngkYy8jNn2GcP2133JXIDU0OhDOEUhg9_pJaEPQzXiFTXSX6crTJH81IkhCCrwHKrhwS5LbzRNm-DByIQpXxjTURFBQQnw0pDNJNI1mkqynelYWYp9v89xzl7smenNWUbFbc6AoxxdIJLHKV-rNm6tg6o9ZD_e5XDn6TyO1EWzuv5kLO0tIRGQjJu06HYb8i4FSRSQW_HNLDeeadKfOVO_1BXBMtCNjqZVA9bBIUxMYnBi8IPQs",
+      "/images/ceiling-progress.webp",
   },
 ];
 
@@ -48,7 +48,7 @@ export default function BlogPage() {
       <section className="mb-16">
         <div className="relative w-full h-[500px] rounded-3xl overflow-hidden group">
           <Image
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuD_ziSCoB81l_VJXwcV8EEh5pibFM-ccsecTXzcuPs9JNXm1VuAczOeoLR4cxI-l9jcj5UVl2e9SynXwVnqc6RL3EJpb-eWZfsbcNRFqv7yApJayAvmTLch6FC18BBXy2U1YlfLZLVEtp2pB-tI3uqTZFBa1n9kW1x-2en7UPYxF_gWrHbsR1-1Gg7ulM_pS5VhZpfTnsRvTm5UL8W-0h2-qHGakgUqY12XAVQod92sB9l3_BVTk3Ofyyu1hKFENRtfKnw_dJwx0DE"
+            src="/images/residential-rafters.webp"
             alt="Eco-friendly spray foam insulation being applied in an attic"
             fill
             className="object-cover brightness-75 group-hover:scale-105 transition-transform duration-700"

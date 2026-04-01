@@ -50,8 +50,8 @@ export default function Home() {
           {/* Hero Image */}
           <div className="relative aspect-[4/3] w-full overflow-hidden rounded-3xl shadow-2xl">
             <Image
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuDV-A6vA-FiVnsx-XdPd5EyQqTqnpOHH3YMohX7oF4S1SKMRb2roYXxxXYMuWYNQPNchR9c1YwNKyYmZIYQH2IvxwrxZ4AglH8izfBAFOY6NvjcZ_UkCtkXhxecTULh4T2qS1fNiH4v4vOXPWwgJVeUVQUn2zgC3Qia2VoU3l5Bf7qgImYT_XQKUZmoePkOza7XTPz8Is_6Ic3XP3vM80xd2jA6GJ9tN1KNrHwI7CbF89Vvx_FfLZz6BgvM46hAlBpRwX37V5mjVog"
-              alt="Eco-friendly spray foam insulation being applied in a residential attic"
+              src="/images/residential-rafters.webp"
+              alt="On Point Insulation spray foam applied to residential rafters in Durango, CO"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
               className="object-cover"
@@ -143,8 +143,8 @@ export default function Home() {
               >
                 <div className="relative aspect-[16/10] w-full overflow-hidden">
                   <Image
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuBHD15echKU3Wvr6YJhaif9miwz30zh0dFXaD6VA1rUj36k5M81fQlNgg7qZE6EjRIMSG4XJxSrKHHSJneFcufgF8OhdLQN49InuaSp1UP-WStDLF6SaEmqVy038Vvv3IK1cA74VU0sXFctKiR5OIAaX9Y7DobdauOFdKIGqw8ylKYmYrjeKQ7P9cAZ6bSBAnRTQ5FPeaAoarKP9ClpyzF5WqEwifY4W1_prCQWOGKAhmapyIxxOx89i-XA8UFekGI2L_pvMvYv0iw"
-                    alt="Residential attic insulation installation"
+                    src="/images/closed-cell-new-construction.webp"
+                    alt="On Point Insulation closed-cell spray foam in new residential construction"
                     fill
                     sizes="(max-width: 1024px) 100vw, 40vw"
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -174,8 +174,8 @@ export default function Home() {
               >
                 <div className="relative aspect-[16/10] w-full overflow-hidden">
                   <Image
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuB059w8KSP_KY1_5xSgbwzz5LOV3kG9esTAtlIn1yvk9pQCPG-mgLWBMLn_wfb0tL0ULrHPing5X3Lnptr2jl0Tf-2-V5bJwNXACcXMbaJdXUiQ6qTbDq_82_l9gHs_W3vdBaeCRWvZOfVJ3k8AQSs9jFUIZyvuY5qRs_e3EaP2KYpUY8HezKPDEqVbjYkmne8IuHLGU2EBhzBcJM2h3ZHOAvVZ2GZmuYFQxqD_OOEtyTkcHb77y-105Hr5bcHZeCHCuQiM3ZHA5pI"
-                    alt="Commercial warehouse insulation project"
+                    src="/images/metal-building.webp"
+                    alt="On Point Insulation spray foam in commercial metal building in Durango"
                     fill
                     sizes="(max-width: 1024px) 100vw, 35vw"
                     className="object-cover transition-transform duration-500 group-hover:scale-105"

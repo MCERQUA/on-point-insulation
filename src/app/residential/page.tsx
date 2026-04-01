@@ -59,7 +59,7 @@ export default function ResidentialPage() {
           <div className="relative">
             <div className="relative aspect-[4/5] w-full overflow-hidden rounded-3xl shadow-2xl">
               <Image
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuDJJUE8CF87W6e-oD7-sW9UK-l4V02yifI4-4xcyy-xdm1oFDjN5XlqNqGarOVl8due8z5j5abJt6eU9Ggs0il-_5wRsK5z6JqAfg0-VdN_QRhkPKXBfsYaMx9CyaWY2U0PAWKcd120JH-FTwXsZefElfz2g_Z4J0DRzxZOfq23hnUqwHKW2i3Q1ACQ8eHHV6qv7M_TTtXpypiBqzpG0auSn2vhazhrCuXtPZX6HtTzgTs8gD5gSrf6NNc9VFY1RkO08bB0isxHJAA"
+                src="/images/hero-home.webp"
                 alt="Modern architectural home with clean lines and large windows set against a soft evening sky"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -130,7 +130,7 @@ export default function ResidentialPage() {
               </div>
               <div className="relative mt-8 h-48 w-full overflow-hidden rounded-2xl">
                 <Image
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuDchRaY3X5c5uYufWpMzKpEdreTN9VpIhFumaPRIOSJdJniR7GC8ZmjUFDBna2dkARpUPdwB2tqAi2EBwlmlpmeS-4DDXNZjcEYGgusYSDgr7LUPKYD7SbkZDNOt1Ty_und-xi470-vpJeOmJKaN65bQXNmpSe70zcCH9dFOnx0fubSM82MwQEPz0DhiQIAuB5twvlXk7Me-QYv-8cl-WvcOBjz1WzitrH4xoO991bQWs-8rw4qHRr153wgVMVwdATGGcv00qnl5ew"
+                  src="/images/residential-rafters.webp"
                   alt="Professional contractor applying white spray foam insulation to a residential wooden attic frame"
                   fill
                   sizes="(max-width: 768px) 100vw, 58vw"
@@ -183,7 +183,7 @@ export default function ResidentialPage() {
             <div className="flex items-center gap-8 rounded-3xl border border-outline-variant/10 bg-surface p-8 md:col-span-8">
               <div className="relative hidden h-24 w-40 shrink-0 overflow-hidden rounded-xl sm:block">
                 <Image
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuDnBeRgSn-vlhV0zadPSG0zHI_6ORq_sMKZUEnwZ6RnbJzm6b9y_oDSUnovQB1ZX1Ztbg-Tb4ZaFTvdzaMqam2-jAJoM94fb1gE0rmEHuEglfSw_mHTXd2NgQHI1eBJ32b0FSQ15Q8PpXkvBWVTvupYqVymQHCCS0ieVb7vHZ9fMkZPFITxRiAUcu1I0kkqbn7lih8obEDH5r2R5emKvk3Lr6Sar4QoomUEsQEu-860bi-5TZbtOtOF4Hd7ANiGmfKTkjVaZTv4Icw"
+                  src="/images/quality-closeup.webp"
                   alt="Softly lit minimal bedroom interior with natural linens and tranquil morning light"
                   fill
                   sizes="160px"
@@ -278,7 +278,7 @@ export default function ResidentialPage() {
               <div className="mb-6 overflow-hidden rounded-2xl">
                 <div className="relative aspect-[4/3] w-full">
                   <Image
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuD4qrlmxrKYzbiKlOWSS1VGEIdWexkkz5ANikDklL8iBbuWCDOm6kVUM9Ax-T7YYAe2xtY9wiFbfw-NhiraXfpee5ZUoqo6slevFssgr4qeqgtf4DzqJSYkNi47skLrwfvgNWLbMsL6Q8qtMnj3P7Smj_3kUkN3GYvR7oL8IH0TiUTdElyr0-GBx_0-Oivvz0Pne9OD0Kbw2nEyInXLKrY42GZI3PDbkJOx20PEMC90wYVP_4SvXhFmFV2JOuH5DjNkLZjSJipHh7Y"
+                    src="/images/roof-insulation.webp"
                     alt="Beautifully finished luxury attic space with clean white walls and exposed wooden beams"
                     fill
                     sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
@@ -299,7 +299,7 @@ export default function ResidentialPage() {
               <div className="mb-6 overflow-hidden rounded-2xl">
                 <div className="relative aspect-[4/3] w-full">
                   <Image
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuD_2B14t1cm3FwJegNKXmPvs_LS_SIRgvZUrt5lmBh8zEkg052CBo563NF8pQIGUi6X95xKTys55oXP-oxT2FDj-_L7F1zV1NGEVOHurqNMFZPiv8U30lcw3wCxmWh0mio47dEyYlkSO6-PA1bg1kL-IN-jGQEpo-LFjxI9BdvMsbe2EDngtkFlnGgrJKhThLZAXRN_MtI8RBaZ0g0njsL0rJSNc3XInpt3J4-4W6yHRnZXMe0KSVyeQ3xHKe042MGU8reNUxU20h0"
+                    src="/images/new-construction-4.webp"
                     alt="Modern suburban house under construction with fresh landscaping and clean siding"
                     fill
                     sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
@@ -320,7 +320,7 @@ export default function ResidentialPage() {
               <div className="mb-6 overflow-hidden rounded-2xl">
                 <div className="relative aspect-[4/3] w-full">
                   <Image
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuBtVv3OosgjeUnM3XR0hVx5CL0jgyJNV6r6HuDUbjbllrQaktQTRgoOZDeO4jtQ3xS5d7YerzFpZkQYwcpiogbycP7PTEe1QXi64LWRxR7YCD3JLTHlHE2-nA0haXchB0FzJqv2dCsekdPLYWaB_k4U9ME3-ORPcSg3xZuk4nzYUV46BG1kKoi0_IrrSra6wAeEqGMeS0kEbk0clzUEMV_02i6n-2OBMh9I5z9Ws_0wdiOU0aBKKvL4JqqIa1-GB1h8LeMpGvZxxPc"
+                    src="/images/ceiling-progress.webp"
                     alt="Spacious finished basement with recessed lighting and comfortable contemporary furniture"
                     fill
                     sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"

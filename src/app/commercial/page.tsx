@@ -59,7 +59,7 @@ export default function CommercialPage() {
           <div className="relative">
             <div className="aspect-[4/5] overflow-hidden rounded-[2.5rem] shadow-2xl">
               <Image
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBzWUbKzFsubVu_ZSiqB3-2I_RwtLTZXoyHTqWsxgWxhDq3XzI1hCTI7t7lgZiJZHHCzf5TpLOOWJef1FuifZm7YSmaN7WwxZDRAmRH9InS4fc3V7hN_hspEXn3N4miUEA6Maq4qK6IlP_E4XTObRwolND_101ZaZGs2dAyKanGyHzHddXilVtcsTJlCH6CzBMmAQ3oU3IYdGC9sPZHlJFvZNPa_4BoJorHet_3TGqM9hOQOJao9rDGIdDE6xd-CuUKeSVQp8F4C-c"
+                src="/images/metal-building-finished.webp"
                 alt="Modern industrial warehouse interior with clean white insulation panels and steel structures under bright natural skylight"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -137,7 +137,7 @@ export default function CommercialPage() {
                 </ul>
                 <div className="hidden size-32 overflow-hidden rounded-full border-4 border-surface-container-low lg:block">
                   <Image
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuBnKAyi6jV2gfwhz1fQACvlpo47BMrZdL7aC84A2_B-4vgnALU8feNXfR06H69EYfvfuVbIsXjzdoKQLaBTdiMM5G5jXrun3XGRGQ6P8FrF-OcWeBFLUoAVIu6TO2kQx-g9fZNBJMvgwviqI2Fw53kseRZXi9UwJKKAD0lAVN3qotFMeg6E82VubRBkRBZQjOBiShwREoc9loIFUcm9ou0rI9dvBSXZtD5cBVzNmvT6c-Ld1vGFO4DyHRIVaUMiXfvBuqvD34YwkoI"
+                    src="/images/metal-building.webp"
                     alt="Worker in protective gear applying high-density spray foam to a commercial wall structure"
                     width={128}
                     height={128}
@@ -217,7 +217,7 @@ export default function CommercialPage() {
           <div className="relative lg:w-1/2">
             <div className="relative z-10 overflow-hidden rounded-[3rem] shadow-2xl">
               <Image
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBFd37zYLITZqnDfBad6ZnU_ke_8PMnbtWvbmPyrf95vyBVuCoLDeUd_G5ZQcyKemNZVmotNj2LwTpqpZ9AmNZ0uC--LD9szMkEz7EsXY4LTNTT2FGzTeckmxI8pKxkC5MfEmGsaQstNjR-pXX8zoEZUHns6qbkX2pICChAIzwZ_cSz8s13f_k5QU1IDFjsld4rz-XXLWParQIw-udDve56W19OGIX3uPLuYfhc7yqJVZ4jK3sSptqC6O6-MhtdDES4auZpwsGaNe0"
+                src="/images/closed-cell-new-construction.webp"
                 alt="A striking modern glass office building reflecting the clear blue sky at sunset"
                 width={720}
                 height={405}

@@ -37,7 +37,7 @@ export default function QuotePage() {
         </div>
         <div className="relative">
           <Image
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuA7U-yrBdKHJNwDYXOojk7BYS-WD0Fg826ppmuoexoqlIR1smQoBhxtW-GSbHN99LphFENyAk6cfUBqOlgDgcQiYy-Gj5vdLv9DBDTR0nkzQbSX8YyskpaHPJG5eILdL1KBDhC3oaAb81oItsXGjR8yB0hJ2qST5kXArFPxvTGf3L5FXEfw0gp9GVvaAzvT6Q52RFHRYyB11hYpIpvfJDC1xDyorQsP_5etw038TwXs9pEDdfDs87nXNQ3eRHIlM0dXLLdvizHuBgo"
+            src="/images/new-construction-4.webp"
             alt="Professional insulation technician applying spray foam"
             width={600}
             height={450}

@@ -120,7 +120,7 @@ export default function EcoFriendlyPractices() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage:
-              "url('https://lh3.googleusercontent.com/aida-public/AB6AXuDV-A6vA-FiVnsx-XdPd5EyQqTqnpOHH3YMohX7oF4S1SKMRb2roYXxxXYMuWYNQPNchR9c1YwNKyYmZIYQH2IvxwrxZ4AglH8izfBAFOY6NvjcZ_UkCtkXhxecTULh4T2qS1fNiH4v4vOXPWwgJVeUVQUn2zgC3Qia2VoU3l5Bf7qgImYT_XQKUZmoePkOza7XTPz8Is_6Ic3XP3vM80xd2jA6GJ9tN1KNrHwI7CbF89Vvx_FfLZz6BgvM46hAlBpRwX37V5mjVog')",
+              "url('/images/closed-cell-new-construction.webp')",
           }}
         />
         <div className="absolute inset-0 bg-gradient-to-br from-[#003f60]/90 via-[#003f60]/80 to-[#006c49]/70" />
